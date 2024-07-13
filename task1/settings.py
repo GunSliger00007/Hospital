@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'task1.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'hospital',
+        'NAME': 'Hospital',
         'USER' : 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
