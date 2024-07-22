@@ -81,7 +81,7 @@ DATABASES = {
         'USER' : 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
-        'PORT' : '3308'
+        'PORT' : '3309'
     }
 }
 
@@ -131,3 +131,4 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+# myproject/settings.py
